@@ -1,0 +1,13 @@
+To run:
+
+1. Install Node.JS from http://nodejs.org/
+
+2. cd gwt-node-chat/demo
+
+# Run the Chat server
+3. node chat.js
+
+4. Open Node chat browser at gwt-node-chat/demo/web/index.html
+
+5. Open GWT chat browser at gwt-node-chat/demo/web/gwt-chat/war/index.html
+
